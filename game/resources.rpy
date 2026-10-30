@@ -1,20 +1,20 @@
 # EcoClub
-define erika       = Character('Érika Valdés', color    = '#98b322')
+define erika       = Character('Érika Valdés',    color = '#98b322')
 define eirene      = Character('Eirene Castillo', color = '#80bafd')
-define ricardo     = Character('Ricardo Ulloa', color   = '#214274')
+define ricardo     = Character('Ricardo Ulloa',   color = '#214274')
 define julian      = Character('Julián Riquelme', color = '#5b814c')
-define bianca      = Character('Bianca Araya', color    = '#e73680')
-define thiago      = Character('Thiago Barros', color   = '#ac1a1a')
-define vanessa     = Character('Vanessa Rivas', color   = '#d19514')
+define bianca      = Character('Bianca Araya',    color = '#e73680')
+define thiago      = Character('Thiago Barros',   color = '#ac1a1a')
+define vanessa     = Character('Vanessa Rivas',   color = '#d19514')
 
 # ArtClub
-define noah        = Character('Noah Smith', color    = '#f3e56b')
-define kaleb       = Character('Kaleb Aguilar', color = '#145cc9')
-define salomé      = Character('Salomé Zúñiga', color = '#a73324')
-define nayeli      = Character('Nayeli Medina', color = '#c79afa')
-define peyton      = Character('Peyton Wilson', color = '#281eb3')
-define milan       = Character('Milán Jiménez', color = '#d11b76')
-define nora        = Character('Nora Castro', color   = '#e7bf0e')
+define noah        = Character('Noah Smith',      color = '#f3e56b')
+define kaleb       = Character('Kaleb Aguilar',   color = '#145cc9')
+define salomé      = Character('Salomé Zúñiga',   color = '#a73324')
+define nayeli      = Character('Nayeli Medina',   color = '#c79afa')
+define peyton      = Character('Peyton Wilson',   color = '#281eb3')
+define milan       = Character('Milán Jiménez',   color = '#d11b76')
+define nora        = Character('Nora Castro',     color = '#e7bf0e')
 
 # Estudiantes
 define susana      = Character('Susana Pérez')        # Bully de Eirene
